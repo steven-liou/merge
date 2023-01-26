@@ -1,4 +1,4 @@
-# Quick Guide to Git
+# Quick Guide to Git First time
 
 By Your Name
 Conflicting Line is correct
