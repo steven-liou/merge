@@ -1,4 +1,4 @@
 # Quick Guide to Git
 
 By Your Name
-Conflicting Line
+Conflicting Line is wrong
